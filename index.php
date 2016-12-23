@@ -9,6 +9,6 @@
   					</div>
   					<a class="btn btn-info" href="post.php?id=<?=urlencode($row['id'])?>">Read More</a>
   			<?php endwhile;  ?>
-</div><!--End main col-->
-
+</div><!--NOT END main col-->
+<h1>adding some NEw</h1>
 <?php include_once('includes/footer.php');?>
